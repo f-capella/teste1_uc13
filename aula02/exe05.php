@@ -6,7 +6,7 @@
    if ($soma >20 ) {
     echo $soma + 8;
    }
-   else (soma < 20)} {
+   else ($soma <= 20)} {
 
    }    
 ?>
